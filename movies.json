@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Movie Title 1",
+        "description": "Description of the movie 1...",
+        "image": "images/placeholder.jpg"
+    },
+    {
+        "title": "Movie Title 2",
+        "description": "Description of the movie 2...",
+        "image": "images/placeholder.jpg"
+    },
+    {
+        "title": "Movie Title 3",
+        "description": "Description of the movie 3...",
+        "image": "images/placeholder.jpg"
+    }
+]
